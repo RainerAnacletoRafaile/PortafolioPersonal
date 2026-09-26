@@ -1,0 +1,6 @@
+{
+  "name": "Portafolio de Proyectos",
+  "description": "Un portafolio web simple, elegante y responsive para presentar proyectos realizados y disponibles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
